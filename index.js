@@ -1,4 +1,4 @@
 console.log("master");
-function functionTest() {
-  console.log(‘testBranch’);
+function functionDeploy() {
+   console.log(‘deployBranch’);
 }
