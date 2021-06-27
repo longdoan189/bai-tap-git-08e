@@ -6,4 +6,9 @@ function functionTest() {
 }
 function checkTask() {
   console.log('testTask')
+function functionDeploy() {
+   console.log('deployBranch');
+}
+function testCompleted() {
+  console.log('testComplete')
 }
