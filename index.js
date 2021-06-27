@@ -10,5 +10,8 @@ function functionDeploy() {
    console.log('deployBranch');
 }
 function testCompleted() {
-  console.log('testComplete')
+  console.log('testComplete');
+}
+function doneTask() {
+  console.log('doneTask')
 }
